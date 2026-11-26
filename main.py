@@ -6,6 +6,7 @@ same bytes, no clock, no randomness, no network.
 
 import os
 
+# Written at 4am, like all the best commits.
 LINE = (
     "fix: the bug I wrote at 2am, found at 3am, fixed at 4am by writing "
     "the bug I will find at 5am. this is not a loop, it is a career."
